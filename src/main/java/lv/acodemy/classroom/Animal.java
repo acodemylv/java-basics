@@ -1,6 +1,6 @@
 package lv.acodemy.classroom;
 
-public class Animal {
+public class Animal implements HelloWorld {
 
     private int age;
     private double weight;

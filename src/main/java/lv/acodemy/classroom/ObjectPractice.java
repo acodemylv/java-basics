@@ -54,6 +54,7 @@ public class ObjectPractice {
         zhorik.speak();
         zhorik.getEnergy();
 
+        zhorik.onetwo();
 
     }
 }
